@@ -41,5 +41,5 @@ Next, I decided to analyze how incarceration and employment rate, as variables, 
 In all three multiple regressions, the p<0.05 which means the data is statistically significant (employment rate and incarceration rate influences household income). Incarceration rate coefficient is positive in all three groups, which is odd since crime does not positively correlate with increased income. 
 
 
-# Summary
-After constructing multiple regressions for each stratified group, we can concluded incarceration and employment rates help predict household income. It's interesting to see the coefficients for incarceration rate are positive, as high crime neighborhoods are historically associated with poverty. Another thing important thing to point out are the high standard errors. These large standard errors can be reasoned through social mobility, as individuals are capable of moving between different socioeconomic groups regardless of their environment. 
+## Summary
+After constructing multiple regressions for each stratified group, we can conclude that incarceration and employment rates help predict household income. It's interesting to see the coefficients for incarceration rate are positive, as high crime neighborhoods are historically associated with poverty. Another thing important thing to point out are the high standard errors. These large standard errors can be reasoned through social mobility, as individuals are capable of moving between different socioeconomic groups regardless of their environment. 
