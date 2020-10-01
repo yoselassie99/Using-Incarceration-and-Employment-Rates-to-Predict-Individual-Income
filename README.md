@@ -25,12 +25,16 @@ To begin the analysis, I thought it would be interesting to compare income, inca
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/EmploymentLinearRegression.png)
 
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/HouseholdLinearRegression.png)
+
 The simple linear regressions show a pattern of high employment rate and household income being associated to children of parents who were in the highest income bracket, followed by middle and low income brackets. The opposite is true for incarceration rates, as children whose parents are in the lowest bracket live in some of the most crime infested neighborhoods in DC.
 
 Next, I decided to analyze how incarceration and employment rate, as variables, predict household income (the outcome) in each stratified group. The reason why I decided to investigate by stratified groups instead of one giant sample size was to measure social mobility, primarily for the children of parents in the low and middle income bracket. 
 
+### High Income Bracket
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/RegressionHighBracket.png)
 
+### Middle Income Bracket
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/RegressionMiddleBracket.png)
 
+### Low Income Bracket
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/RegressionLowBracket.png)
