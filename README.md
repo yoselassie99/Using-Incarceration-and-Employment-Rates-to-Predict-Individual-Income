@@ -1,7 +1,7 @@
 # Using Incarceration and Employment Rates to Predict Individual Income
 
 ## Background
-It is often believed that children are simply a product of their environment, as their surroundings shape the adult they later become.
+It is often believed that children are simply a product of their environment, as their surroundings shape the adult they later become. Whether it be in or out of the home, the impressionable nature of children is well documented in social psychology circles. 
 
 
 
@@ -18,7 +18,7 @@ All data was obtained from the Opportunity Atlas Database. Data was stratified b
 
 
 ## Data Analysis
-To begin the analysis, I thought it would be interesting to compare income, incarceration rates and employment rates between parents income groups just to determine a trend between the three income groups (high, middle, low)
+To begin the analysis, I thought it would be interesting to compare income, incarceration rates and employment rates between parents income groups just to determine a trend between the three income groups (high, middle, low).
 
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/IncarcerationLinearRegression.png)
 
@@ -38,3 +38,9 @@ Next, I decided to analyze how incarceration and employment rate, as variables, 
 
 ### Low Income Bracket
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/RegressionLowBracket.png)
+
+In all three multiple regressions, the p<0.05 which means the data is statistically significant (employment rate and incarceration rate influences household income). Incarceration rate coefficient is positive in all three groups, which is odd since crime does not positively correlate with increased income. 
+
+
+# Summary
+After constructing multiple regressions for each stratified group, we can concluded incarceration and employment rates help predict household income. It's interesting to see the coefficients for incarceration rate are positive, as high crime neighborhoods are historically associated with poverty. Another thing important thing to point out are the high standard errors. These large standard errors can be reasoned through social mobility, as individuals are capable of moving between different socioeconomic groups regardless of their environment. 
