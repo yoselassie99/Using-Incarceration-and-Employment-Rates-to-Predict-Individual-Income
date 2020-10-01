@@ -18,8 +18,10 @@ All data was obtained from the Opportunity Atlas Database. Data was stratified b
 
 
 ## Data Analysis
-To begin the analysis, I thought it would be interesting to compare income, incarceration rates and employment rates between income groups just to get a general idea on the environment these samples are growing up in.
+To begin the analysis, I thought it would be interesting to compare income, incarceration rates and employment rates between parents income groups just to determine a trend between the three income groups (high, middle, low)
 
 ![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/IncarcerationLinearRegression.png)
 
-#
+![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/EmploymentLinearRegression.png)
+
+![alt text](https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Predict-Individual-Income/blob/main/HouseholdLinearRegression.png)
