@@ -17,7 +17,7 @@ https://github.com/yoselassie99/Using-Incarceration-and-Employment-Rates-to-Pred
 All data was obtained from the Opportunity Atlas Database. Data was stratified by parent's income group (high, middle, low) to determine the role incarceration and employment rates have in predicting household income.
 
 
-#Data Analysis
+# Data Analysis
 To begin the analysis, I thought it would be interesting to compare income, incarceration rates and employment rates between income groups just to get a general idea on the environment these samples are growing up in.
 
 
