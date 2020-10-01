@@ -1,12 +1,11 @@
 # Using Incarceration and Employment Rates to Predict Individual Income
 
 ## Background
-It is often believed that children are simply a product of their environment, as their surroundings shape the adult they later become. Whether it be in or out of the home, the impressionable nature of children is well documented in social psychology circles. 
+It is often believed that children are simply a product of their environment, as their surroundings shape the adult they later become. Whether it be in or out of home, the impressionable nature of children is very evident. This idea is often used to explain why some people are unable to break free from poverty, as they never envision a better life. 
 
+However, this is not always the case. During every college admission, children from all socioeconomic backgrounds are admitted to the top universities in the world. Those who are admitted from low income communities are often commended for achieving so much with significantly fewer resources than their peers and eventually pursue successful careers after college, breaking free from the cycle of poverty. On the other side of the spectrum, children of wealthy parents sometimes do not achieve the same level of success as their parents, as their pampered upbringing does not instill grit and a proper work ethic.
 
-
-
-
+To challenge the notion of children being "a product of their environment" I decided to investigate how different environmental factors affect a child's future. While the factors I used are not the only determinants in a child's future, I consider them to be some of the significant and influential.  
 
 
 ## Business Question
